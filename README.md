@@ -9,7 +9,7 @@
 
 
 ### 二、设置账号COOKIE
-先登录B站，然后访问https://api.live.bilibili.com/sign/GetSignInfo，
+先登录B站，然后访问https://api.live.bilibili.com/sign/GetSignInfo
 
 按***F12***，在***Network***中刷新
 
@@ -26,7 +26,7 @@
 支持多账号，账号**COOKIE**之间用 ***#*** 分隔
 
 示例：**COOKIE:sid=97d0....#sid=97d0....**
-![image-20200727142753175](https://i.loli.net/2020/07/27/xjri3p4qdchaf2G.png)
+![](https://i.loli.net/2020/07/27/xjri3p4qdchaf2G.png)
 
 ### 三、启用 Action
 1. 点击 ***Actions***，再点击 **I understand my workflows, go ahead and enable them**
@@ -35,7 +35,7 @@
 
 2. 点击左侧的 ***Star***
 
-   ![image-20200727142617807](https://i.loli.net/2020/07/27/3cXnHYIbOxfQDZh.png)
+   ![](https://i.loli.net/2020/07/27/3cXnHYIbOxfQDZh.png)
 
 ### 四、查看运行结果
 > Actions --> 签到 --> build
