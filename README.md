@@ -9,7 +9,9 @@
 
 
 ### 二、设置账号COOKIE
-先登录B站，然后访问https://api.live.bilibili.com/sign/GetSignInfo，按***F12***，在***Network***中刷新
+先登录B站，然后访问https://api.live.bilibili.com/sign/GetSignInfo，
+
+按***F12***，在***Network***中刷新
 
 ![image-20200727150526051](https://i.loli.net/2020/07/27/zSFRqjIr4B8OEgh.png)
 
